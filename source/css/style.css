@@ -1,11 +1,13 @@
 body
 {
-    font-family: sans-serif;
+    font-family: "Helvetica", "Hiragino Sans GB", "Microsoft YaHei", "WenQuanYi Micro Hei", sans-serif;
     font-size: 100%;
     font-weight: 100;
 
     margin: 0;
     padding: 0;
+
+    background-color: #ebe6e2;
 
     text-align: justify;
 
@@ -29,7 +31,7 @@ body
     height: .5rem;
     margin-bottom: 8vmin;
 
-    background: #000;
+    background: #000000;
 }.main
 {
     width: 500px;
@@ -47,7 +49,8 @@ body
     margin: 0 auto;
     padding: 0;
 
-    background: rgba(255,255,255,.8);
+    /*background: rgba(255,255,255,.8);*/
+    background: #ebe6e2;
 }a
 {
     text-decoration: none;
@@ -78,6 +81,7 @@ h2
 }.post-item,
 .post-item .title
 {
+    font-family: "Helvetica", "Hiragino Sans GB", "Microsoft YaHei", "WenQuanYi Micro Hei", sans-serif;
     font-size: 2rem;
     line-height: 3rem;
 
@@ -148,7 +152,8 @@ h2
     background: #e0e0e0;
 }.main
 {
-    background: #fff;
+    /*background: #fff;*/
+    background: #ebe6e2;
 }.loader
 {
     position: fixed;
@@ -159,7 +164,8 @@ h2
     width: 100%;
     height: 100%;
 
-    background: #f9f9f9;
+    /*background: #f9f9f9;*/
+    background: #ebe6e2;
 }.spinner
 {
     font-size: 10px;
