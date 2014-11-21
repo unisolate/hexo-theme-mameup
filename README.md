@@ -1,23 +1,23 @@
-# mame
-Forked from [Chadluo](https://github.com/chadluo/hexo-theme-mame)
+# mameup
+Forked from [rwxes](https://github.com/rwxes/hexo-theme-mame), and the original mame theme was developed by [Chadluo](https://github.com/chadluo/hexo-theme-mame).
 
-Added light responsiveness, a few style changes and [SpinKit](http://tobiasahlin.com/spinkit/) loader.
+Color and font improvement.
 
-[demo](http://rwx.es).
+[Demo](http://ohmyuni.com).
 
 ## Install
 
-Execute the following command and modify `theme` in `_config.yml` to `mame`.
+Execute the following command and modify `theme` in `_config.yml` to `mameup`.
 
 ```
-git clone git://github.com/rwxes/hexo-theme-mame.git themes/mame
+git clone https://github.com/unisolate/hexo-theme-mameup.git themes/mameup
 ```
 
 ## Update
 
-Execute the following command to update Light.
+Execute the following command to update.
 
 ```
-cd themes/mame
+cd themes/mameup
 git pull
 ```
