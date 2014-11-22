@@ -251,6 +251,6 @@ dd, dl, dt, h1, h2, h3, h4, h5, h6, hr, li, ol, p, strong, ul {
     line-height: 1rem
 }
 .ty-indent blockquote+p, .ty-indent p+p, .ty-indent pre+p {
-    margin-top: 0;
+    margin-top: 1;
     text-indent: 0rem
 }
