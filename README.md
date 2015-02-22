@@ -23,8 +23,3 @@ Execute the following command to update.
 cd themes/mameup
 git pull
 ```
-
-## License
-*"THE LEMONADE LICENSE":*
-
-unisolate#gmail.com wrote this file. As long as you retain this notice you can do whatever you want with this stuff. If we meet some day, and you think this stuff is worth it, you can buy me a lemonade in return.
