@@ -1,4 +1,10 @@
-# mameup
+mameup
+======
+
+**This project is no longer under maintainance, as it is only compatible with old versions of Hexo.**
+
+## Introduction
+
 A [Hexo](http://hexo.io) theme based on [mame](https://github.com/chadluo/hexo-theme-mame). Forked from [rwxes](https://github.com/rwxes/hexo-theme-mame), which is an improved version with light responsiveness, a few style changes and SpinKit loader.
 
 Color and font improvement. Better markdown apperance.
