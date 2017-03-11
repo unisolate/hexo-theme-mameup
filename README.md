@@ -11,7 +11,7 @@ Color and font improvement. Better markdown apperance.
 
 About the newly-added suffix of the theme name, "up": 'u' is for "Uni", my name, and 'p' is for "Press", an Android app with awesome design that gave me the idea of color theme.
 
-[Demo](http://ohmyuni.com).
+[Demo](http://web.archive.org/web/20150801215201/http://ohmyuni.com/).
 
 ## Install
 
